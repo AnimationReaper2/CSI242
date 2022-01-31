@@ -1,0 +1,5 @@
+WEEK 4
+Passcodes: Starship and Eclipse
+Participation: Showed up to in person class, I also answered questions on Thursday.
+Progrees on Self Learning: I was able to complete code academy. I'm still working on a couple of side projects to further ahead my skills.
+Update of Progress: I'm almost done with the calculator app, I just need to add in how to use the keyboard.

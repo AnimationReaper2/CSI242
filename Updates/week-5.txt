@@ -1,0 +1,7 @@
+WEEK 5
+Passcodes: Chariot and Notebook
+Participation: Showed up to in person class, I also answered questions in class on Tuesday and Thursday.
+Progrees on Self Learning: Working on side projects, also watching youtube videos to further my knowledge on Javascript.
+Update of Progress: Finished the calculator, I was having some issues with it, which I noted on the assignment. I watched videos,
+    and looked at different websites to try and fix the problems, I am going to keep working on it until I can get it working but
+    if you have any tips or hints that would be great.

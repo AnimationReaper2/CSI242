@@ -1,0 +1,6 @@
+WEEK 7
+Passcodes: Toad and Deep
+Participation: Showed up to class online with camera on, I talked with you about my game.
+Progrees on Self Learning: Working on side projects, also watching youtube videos to further my knowledge on Javascript.
+Update of Progress: I'm basically done with my game, there are a few glitches I have come across that I need to fix and
+                    I want to add something else to it since I have time.

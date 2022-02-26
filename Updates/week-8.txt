@@ -1,0 +1,5 @@
+WEEK 8
+Passcodes: Whisper and Lux
+Participation: Showed up to class online with camera on for Thursday, contributed during class as well, also got help in office hours. Couldn't come to class Tuesday due to Jury Duty meeting (which I got excused from.).
+Progrees on Self Learning: Working on side projects, also watching youtube videos to further my knowledge on Javascript.
+Update of Progress: I've finished my game, I couldn't get my canvas to clear and I have ran out of time for the day and don't have time to work on it tomorrow.

@@ -2,4 +2,4 @@ WEEK 11
 Passcodes: Admiral and Wolf
 Participation: Showed up to class online with camera on, I contributed during class as well.
 Progrees on Self Learning: Working on side projects, also watching youtube videos to further my knowledge on Javascript.
-Update of Progress: I've been working on my final project, I have got most of it done(title page, and game screen), I have most of the character generator done, there are somethings I need to figure out. I need to get it so that when something clicked in the same type they switch out not just go over, then I need to figure out how to get it so that it does certain layers first.
+Update of Progress: I've been working on my final project, I have got most of it done(title page, and game screen), I have most of the character generator done, there are somethings I need to figure out. I need to get it so that when something clicked in the same type they switch out not just go over, then I need to figure out how to get it so that it does certain layers first. Also some are only fem and some are only male so I am working on splitting them up.
